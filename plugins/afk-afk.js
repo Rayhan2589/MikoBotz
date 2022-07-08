@@ -10,7 +10,7 @@ user.afk = + new Date
 user.afkReason = text
  conn.sendButtonDoc(m.chat, `${conn.getName(m.sender)} is now AFK${text ? ': ' + text : ''}`, wm, 'Jangan Ganggu Ya', 'Bilek', m,  { contextInfo: { externalAdReply: { showAdAttribution: true,
         mediaUrl: "https://chat.whatsapp.com/IW8emmdnFX3Jioe04wO1rf",
-        mediaType: "VIDEO",
+        mediaType: "FOTO",
         description: "https://Instagram.com/bot_whangsaf", 
         title: 'Simple Bot Esm',
         body: wm,
